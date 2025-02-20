@@ -35,6 +35,7 @@ Daha sonra şu komut ile Laravel APP_KEY oluşturun:
 ```
 php artisan key:generate
 ```
+Artık şu adresi [http://localhost:8000/](http://localhost:8000/) kullanarak Laravel projenizi görüntüleyebilirsiniz.
 ### 6. Veritabanı Kurulumu
 Laravel ile MySQL arasındaki bağlantının sorunsuz olması için .env dosyanızın ilgili kısmı aşağıdaki gibi olmalıdır:
 ```
